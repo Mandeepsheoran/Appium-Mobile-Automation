@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-20T17:17:35 GST" name="Default suite" finished-at="2023-01-20T17:17:35 GST" duration-ms="43">
+    <groups>
+    </groups>
+    <test started-at="2023-01-20T17:17:35 GST" name="Default test" finished-at="2023-01-20T17:17:35 GST" duration-ms="43">
+      <class name="org.appium.mobiletest.DataProviderTest">
+        <test-method signature="getDataFromDataProvider(java.util.Map)[pri:0, instance:org.appium.mobiletest.DataProviderTest@402bba4f]" started-at="2023-01-20T17:17:35 GST" name="getDataFromDataProvider" data-provider="getData2" finished-at="2023-01-20T17:17:35 GST" duration-ms="5" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{password=Test@123, username=mandeep}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDataFromDataProvider -->
+        <test-method signature="getDataFromDataProvider(java.util.Map)[pri:0, instance:org.appium.mobiletest.DataProviderTest@402bba4f]" started-at="2023-01-20T17:17:35 GST" name="getDataFromDataProvider" data-provider="getData2" finished-at="2023-01-20T17:17:35 GST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{password=Machine@123, username=monika}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDataFromDataProvider -->
+        <test-method signature="getDataFromDataProvider(java.util.Map)[pri:0, instance:org.appium.mobiletest.DataProviderTest@402bba4f]" started-at="2023-01-20T17:17:35 GST" name="getDataFromDataProvider" data-provider="getData2" finished-at="2023-01-20T17:17:35 GST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[{password=India@123, username=kaju}]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getDataFromDataProvider -->
+      </class> <!-- org.appium.mobiletest.DataProviderTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
