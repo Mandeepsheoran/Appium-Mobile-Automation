@@ -1,6 +1,6 @@
 # Appium-Mobile-Automation
 
-Appium Mobile automation frameowork using Java with TestNG, Extent Reports.
+Appium Mobile automation frameowork using Java with TestNG, Extent Reports..
 
 We can run test on emulator, real Physical device, browserstack and on other cloud provider.
 
